@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eleme-demo
 
 > A Vue.js project
@@ -25,3 +26,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# sellapp-SPA
+a webapp of sell
+>>>>>>> beca2df8546e7b73ab4d7cc91e58236d2c9a2834
